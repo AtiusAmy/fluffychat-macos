@@ -4,7 +4,7 @@
 
 The goal of this project is to provide a MacOS packages for the latest stable release of [FluffyChat](https://github.com/krille-chan/fluffychat). Here you'll find builds for both Apple Silicon and Intel Macs.
 
-## Downloads
+## Downloadsa
 
 Built application can be downloaded from the [Releases](https://github.com/pashynskykh/fluffychat-macos/releases).
 
